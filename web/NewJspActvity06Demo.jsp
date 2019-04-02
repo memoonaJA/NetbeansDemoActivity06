@@ -15,6 +15,7 @@
         <h1>Hello World!</h1>
         <%
             out.print("JSP Demo Activity 06");
+            out.print ("I am changing this file")
             %>
     </body>
 </html>
